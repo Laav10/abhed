@@ -1,0 +1,40 @@
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Android / Gradle
+local.properties
+.gradle/
+**/build/
+captures/
+*.apk
+*.aab
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+server/venv/
+
+# Secrets / env files
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# Local runtime data
+*.db
+*.sqlite
+models/
+server/models/
+
+# Logs
+*.log

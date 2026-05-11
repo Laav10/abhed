@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ABHED Banking</string>
+    <string name="app_subtitle">Secure Banking with Behavioral Authentication</string>
+    <string name="get_started">Get Started</string>
+    <string name="learn_more">Learn More</string>
+    <string name="advanced_security_features">Advanced Security Features</string>
+    <string name="behavioral_biometrics">Behavioral Biometrics</string>
+    <string name="behavioral_biometrics_desc">Advanced pattern recognition for secure authentication</string>
+    <string name="secure_banking">Secure Banking</string>
+    <string name="secure_banking_desc">Bank-grade encryption and security protocols</string>
+    <string name="fraud_protection">Fraud Protection</string>
+    <string name="fraud_protection_desc">Real-time monitoring and threat detection</string>
+</resources>
+
