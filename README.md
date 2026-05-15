@@ -46,4 +46,4 @@ Twilio credentials are not stored in source code. Configure them at runtime from
 ### Authors/Team 
 Built for the FinShield Hackathon by  
 [Vibhaas N Srivastava](https://github.com/vibhaas) and [Laavanya Rajan](https://github.com/Laav10)
-Intellectual Property owned by Bank of India and IIT Hyderabad
+- Intellectual Property owned by Bank of India and IIT Hyderabad
