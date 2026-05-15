@@ -41,8 +41,9 @@ The server runs on `http://0.0.0.0:3343` by default.
 Twilio credentials are not stored in source code. Configure them at runtime from the app's credentials screen if real SMS delivery is needed.
 
 ## Notes
-- This project is a prototype intended for demonstration and experimentation.
+- This project is a prototype intended for demo and experimentation.
 
 ### Authors/Team 
 Built for the FinShield Hackathon by  
 [Vibhaas N Srivastava](https://github.com/vibhaas) and [Laavanya Rajan](https://github.com/Laav10)
+Intellectual Property owned by Bank of India and IIT Hyderabad
